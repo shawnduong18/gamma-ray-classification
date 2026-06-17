@@ -61,7 +61,7 @@ After refitting on full dataset, standardized logistic regression coefficients s
 ## Files
 
 - `gamma_ray_analysis.ipynb`  Full analysis, visualizations, model fitting
-- `MAGIC_Gamma_Telescope.csv`  Raw data from UCI repo (or will be downloaded automatically)
+- `MAGIC_Gamma_Telescope.csv`  Raw data from UCI repo
 
 ## Installation & Usage
 
